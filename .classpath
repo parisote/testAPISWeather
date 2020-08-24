@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="/home/tomifacultad/WORK/TALLER_HERRAMIENTAS_PROGRAMACION/TestWs/lib/aopalliance-repackaged-2.5.0-b32.jar"/>
+	<classpathentry kind="lib" path="/home/tomifacultad/WORK/TALLER_HERRAMIENTAS_PROGRAMACION/TestWs/lib/genson-1.4.jar"/>
+	<classpathentry kind="lib" path="/home/tomifacultad/WORK/TALLER_HERRAMIENTAS_PROGRAMACION/TestWs/lib/gson-2.8.6.jar"/>
+	<classpathentry kind="lib" path="/home/tomifacultad/WORK/TALLER_HERRAMIENTAS_PROGRAMACION/TestWs/lib/hk2-api-2.5.0-b32.jar"/>
+	<classpathentry kind="lib" path="/home/tomifacultad/WORK/TALLER_HERRAMIENTAS_PROGRAMACION/TestWs/lib/hk2-locator-2.5.0-b32.jar"/>
+	<classpathentry kind="lib" path="/home/tomifacultad/WORK/TALLER_HERRAMIENTAS_PROGRAMACION/TestWs/lib/hk2-utils-2.5.0-b32.jar"/>
+	<classpathentry kind="lib" path="/home/tomifacultad/WORK/TALLER_HERRAMIENTAS_PROGRAMACION/TestWs/lib/jackson-annotations-2.11.1.jar"/>
+	<classpathentry kind="lib" path="/home/tomifacultad/WORK/TALLER_HERRAMIENTAS_PROGRAMACION/TestWs/lib/jackson-core-2.11.1.jar"/>
+	<classpathentry kind="lib" path="/home/tomifacultad/WORK/TALLER_HERRAMIENTAS_PROGRAMACION/TestWs/lib/jackson-databind-2.11.1.jar"/>
+	<classpathentry kind="lib" path="/home/tomifacultad/WORK/TALLER_HERRAMIENTAS_PROGRAMACION/TestWs/lib/java-json.jar"/>
+	<classpathentry kind="lib" path="/home/tomifacultad/WORK/TALLER_HERRAMIENTAS_PROGRAMACION/TestWs/lib/javassist-3.20.0-GA.jar"/>
+	<classpathentry kind="lib" path="/home/tomifacultad/WORK/TALLER_HERRAMIENTAS_PROGRAMACION/TestWs/lib/javax.annotation-api-1.2.jar"/>
+	<classpathentry kind="lib" path="/home/tomifacultad/WORK/TALLER_HERRAMIENTAS_PROGRAMACION/TestWs/lib/javax.inject-2.5.0-b32.jar"/>
+	<classpathentry kind="lib" path="/home/tomifacultad/WORK/TALLER_HERRAMIENTAS_PROGRAMACION/TestWs/lib/javax.servlet-api-3.0.1.jar"/>
+	<classpathentry kind="lib" path="/home/tomifacultad/WORK/TALLER_HERRAMIENTAS_PROGRAMACION/TestWs/lib/javax.ws.rs-api-2.0.1.jar"/>
+	<classpathentry kind="lib" path="/home/tomifacultad/WORK/TALLER_HERRAMIENTAS_PROGRAMACION/TestWs/lib/jaxb-api-2.2.7.jar"/>
+	<classpathentry kind="lib" path="/home/tomifacultad/WORK/TALLER_HERRAMIENTAS_PROGRAMACION/TestWs/lib/jersey-client.jar"/>
+	<classpathentry kind="lib" path="/home/tomifacultad/WORK/TALLER_HERRAMIENTAS_PROGRAMACION/TestWs/lib/jersey-common.jar"/>
+	<classpathentry kind="lib" path="/home/tomifacultad/WORK/TALLER_HERRAMIENTAS_PROGRAMACION/TestWs/lib/jersey-container-servlet.jar"/>
+	<classpathentry kind="lib" path="/home/tomifacultad/WORK/TALLER_HERRAMIENTAS_PROGRAMACION/TestWs/lib/jersey-container-servlet-core.jar"/>
+	<classpathentry kind="lib" path="/home/tomifacultad/WORK/TALLER_HERRAMIENTAS_PROGRAMACION/TestWs/lib/jersey-guava-2.25.1.jar"/>
+	<classpathentry kind="lib" path="/home/tomifacultad/WORK/TALLER_HERRAMIENTAS_PROGRAMACION/TestWs/lib/jersey-media-jaxb.jar"/>
+	<classpathentry kind="lib" path="/home/tomifacultad/WORK/TALLER_HERRAMIENTAS_PROGRAMACION/TestWs/lib/jersey-server.jar"/>
+	<classpathentry kind="lib" path="/home/tomifacultad/WORK/TALLER_HERRAMIENTAS_PROGRAMACION/TestWs/lib/org.osgi.core-4.2.0.jar"/>
+	<classpathentry kind="lib" path="/home/tomifacultad/WORK/TALLER_HERRAMIENTAS_PROGRAMACION/TestWs/lib/osgi-resource-locator-1.0.1.jar"/>
+	<classpathentry kind="lib" path="/home/tomifacultad/WORK/TALLER_HERRAMIENTAS_PROGRAMACION/TestWs/lib/persistence-api-1.0.jar"/>
+	<classpathentry kind="lib" path="/home/tomifacultad/WORK/TALLER_HERRAMIENTAS_PROGRAMACION/TestWs/lib/validation-api-1.1.0.Final.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
